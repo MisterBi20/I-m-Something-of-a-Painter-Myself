@@ -74,6 +74,8 @@ chmod +x predict.sh
 
 **详细步骤请查看 [QUICK_START.md](QUICK_START.md)**
 
+**💡 想在Jupyter Lab中运行？查看 [JUPYTER_GUIDE.md](JUPYTER_GUIDE.md) 使用 `train_in_jupyter.ipynb`**
+
 ## 📁 文件说明
 
 ### 核心文件
@@ -83,6 +85,8 @@ I-m-Something-of-a-Painter-Myself/
 ├── README.md                          # 本文件
 ├── QUICK_START.md                     # 快速开始指南
 ├── COMPETITION_GUIDE.md               # 完整竞赛指南
+├── JUPYTER_GUIDE.md                  # Jupyter Lab使用指南
+├── train_in_jupyter.ipynb            # 在Jupyter Lab中训练notebook ⭐
 ├── kaggle_submission.ipynb           # Kaggle提交notebook
 │
 ├── train_baseline.sh                  # 快速训练脚本
@@ -104,7 +108,9 @@ I-m-Something-of-a-Painter-Myself/
 |------|------|
 | `QUICK_START.md` | 5分钟快速上手指南 |
 | `COMPETITION_GUIDE.md` | 完整的竞赛策略和技巧 |
+| `JUPYTER_GUIDE.md` | **Jupyter Lab完整使用指南** |
 | `kaggle_submission.ipynb` | Kaggle环境下的提交notebook |
+| `train_in_jupyter.ipynb` | **在Jupyter Lab中训练notebook** |
 
 ### 训练脚本说明
 

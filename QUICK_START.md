@@ -125,3 +125,4 @@ python Something-of-a-Painter/run.py --batch_size 1 ...
 
 祝你好运！🎨
 
+
